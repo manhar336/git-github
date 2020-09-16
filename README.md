@@ -1,3 +1,9 @@
 # git-github
 this is the first repository for testing 
-updating the file.
+uapdating the file.
+
+#QA enviornment
+
+#BTS environment
+
+#Prod environment
