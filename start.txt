@@ -1,1 +1,2 @@
 this is first repo file
+added some more information to check merge
