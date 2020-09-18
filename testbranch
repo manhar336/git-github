@@ -1,3 +1,7 @@
 this is new line which is used for merge without no fast forward
 this is other addition manohar
+<<<<<<< HEAD
 This is testing merge in Master branch
+=======
+updated file in new-branchname to check merge
+>>>>>>> new-branchname
