@@ -1,2 +1,4 @@
 this is first repo file
 added some more information to check merge
+
+updated file part of git testing in git
